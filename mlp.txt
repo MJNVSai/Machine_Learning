@@ -1,0 +1,7 @@
+https://www.kaggle.com/code/bayunova/diabetes-health-indicators
+
+https://www.kaggle.com/code/nasere/diabetes-health-prediction
+
+https://www.kaggle.com/code/jorgemetri/94-accuracy-with-smoteenn-resampling
+
+alg : decision tree, navies , svm
